@@ -1,2 +1,5 @@
 # hello-world
-First github project
+
+Hi Humans!
+
+Trying to discover programming
